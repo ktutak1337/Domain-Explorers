@@ -15,7 +15,7 @@ Ten projekt stanowi zapis analizy, modelowania oraz implementacji w ramach [Doma
 
 ### Czym jest EventStorming?
 
-Event Storming to metodyka pozwalająca na odkrycie domeny biznesowej opracowana przez Alberto Brandoliniego. Pozwala zrozumieć cały proces oraz zidentyfikować problemy, które występują w ramach analizowanej domeny. W spotkania powinni być zaangażowani interasiarusze związani z daną domeną tacy jak ekspert domenowy, przedstawiciele biznesu, eksperci techniczni itd. W wyniku warsztatów event stormingu powstają następujące artefakty: Big picture, Process Level oraz Design Level, które są kluczowe w dalszym modelowaniu tworzonego systemu. Pozwalają na wyznacznie kluczowych obszarów domeny, które tak naprawdę przynoszą pieniądze biznesowi, a także domeny poboczne i generyczne, które mają mniejszy wpływ na sukces biznesu, a co za tym idzie nie wymagają aż tak dużej uwagi.
+Event Storming to metodyka pozwalająca na odkrycie domeny biznesowej, której twórcą jest Alberto Brandolini. Pozwala ona zrozumieć cały proces oraz zidentyfikować problemy, które występują w ramach analizowanej domeny. W proces powinni być zaangażowani interasiarusze związani z daną domeną tacy jak: ekspert domenowy, przedstawiciele biznesu, eksperci techniczni itd. W wyniku warsztatów event stormingu powstają następujące artefakty: Big picture, Process Level oraz Design Level, które są kluczowe w dalszym modelowaniu tworzonego systemu. Pozwalają na wyznacznie kluczowych obszarów domeny, które tak naprawdę przynoszą pieniądze biznesowi, a także domeny poboczne i generyczne, które mają mniejszy wpływ na sukces biznesu, a co za tym idzie nie wymagają aż tak dużej uwagi.
 
 ### EventStorming: Big Picture
 
